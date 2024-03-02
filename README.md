@@ -30,7 +30,11 @@ This project presents a sophisticated warehouse navigation robot designed as a t
 ### Video Demonstration
 
 
-https://github.com/Harshit0803/WarehouseNavigationRobot/assets/29999543/a0893a91-19bf-4a25-a655-d42754275322
+
+
+
+
+https://github.com/Harshit0803/WarehouseNavigationRobot/assets/29999543/0be19da2-aafe-410a-bdac-8b3bcb9cb463
 
 
 
